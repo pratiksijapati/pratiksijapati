@@ -19,14 +19,25 @@ I build web applications end to end: React and TypeScript interfaces, Django and
 
 ## Tech stack
 
-| Area | Technologies |
-|---|---|
-| Frontend | React, TypeScript, JavaScript, Vite, TanStack Query, HTML, CSS |
-| Backend | Python, Django, Django REST Framework, FastAPI, PHP |
-| Databases | PostgreSQL, MySQL |
-| AI / ML | scikit-learn (Random Forest, Nearest Neighbors, K-Means) |
-| Tools | Git, GitHub, Figma |
-| Deployment | Vercel, Render, Neon |
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css" alt="React, TypeScript, JavaScript, Vite, HTML, CSS" height="40"><br>
+React · TypeScript · JavaScript · Vite · TanStack Query · HTML · CSS
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,php" alt="Python, Django, FastAPI, PHP" height="40"><br>
+Python · Django · Django REST Framework · FastAPI · PHP
+
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" height="40"><br>
+PostgreSQL · MySQL
+
+**AI / ML**<br>
+<img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" height="40"><br>
+scikit-learn (Random Forest, Nearest Neighbors, K-Means)
+
+**Tools & deployment**<br>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel" alt="Git, GitHub, Figma, Vercel" height="40"><br>
+Git · GitHub · Figma · Vercel · Render · Neon
 
 ## Featured projects
 
